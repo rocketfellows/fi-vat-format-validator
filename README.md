@@ -1,4 +1,4 @@
-# <Country> vat format validator
+# Finland vat format validator
 
 ![Code Coverage Badge](./badge.svg)
 
