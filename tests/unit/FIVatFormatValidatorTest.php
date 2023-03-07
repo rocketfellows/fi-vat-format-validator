@@ -3,6 +3,7 @@
 namespace rocketfellows\FIVatFormatValidator\tests\unit;
 
 use PHPUnit\Framework\TestCase;
+use rocketfellows\FIVatFormatValidator\FIVatFormatValidator;
 
 class FIVatFormatValidatorTest extends TestCase
 {
